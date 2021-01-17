@@ -1,7 +1,8 @@
 {
     "name": "GameAssembly",
     "references": [
-        "Unity.TextMeshPro"
+        "Unity.TextMeshPro",
+        "Cinemachine"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
